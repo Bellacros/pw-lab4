@@ -1,0 +1,18 @@
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Panel Logowania.exe.config
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Panel Logowania.exe
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Panel Logowania.pdb
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.csprojAssemblyReference.cache
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel_Logowania.Form1.resources
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel_Logowania.Form2.resources
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel_Logowania.Properties.Resources.resources
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.exe
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.pdb
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Google.Protobuf.dll
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\MySql.Data.dll
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Renci.SshNet.dll
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\bin\Debug\MySql.Data.xml
+C:\Users\tomas\source\repos\Panel Logowania\Panel Logowania\obj\Debug\Panel Logowania.csproj.CopyComplete
